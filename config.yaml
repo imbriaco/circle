@@ -1,10 +1,10 @@
 ---
 cog_bundle_version: 3
 name: circle
-version: 0.1.0
+version: 0.1.1
 docker:
   image: "drapergeek/circle"
-  tag: 0.1.0
+  tag: "0.1"
 permissions:
   - circle:read
   - circle:build
